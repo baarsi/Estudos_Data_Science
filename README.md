@@ -14,7 +14,7 @@ Especialização em Data Analytics com foco na capacitação de profissionais pa
 
 # Data Science Studies
 [english]
-Exercises and practices acquired in my post-graduate program (Data Analytics)
+Exercises and practices acquired in my postgraduate program (Data Analytics)
 
 Topics covered:
 - Data analysis and exploration
